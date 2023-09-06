@@ -1,6 +1,6 @@
-# polarwinkel on GitHub 
+# My Polarwinkel-Repositorys at a Glance
 
-This gives a brief overview of some of my repositories.
+This gives a brief overview of some of [my repositories on GitHub](https://github.com/polarwinkel).
 
 ## [mdtex2html](https://github.com/polarwinkel/mdtex2html)
 
