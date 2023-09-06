@@ -32,7 +32,7 @@ The successor of my [GradeMan](https://github.com/polarwinkel/GradeMan).
 
 Both are in german language!
 
-## [KursFormelsammlungPhysik](https://github.com/polarwinkel/KurzFormelsammlungPhysik)
+## [KurzFormelsammlungPhysik](https://github.com/polarwinkel/KurzFormelsammlungPhysik)
 
 german: Just what the title says...
 
@@ -42,6 +42,14 @@ For Teachers: An auto-correcting exercise-server using its own, very simple lear
 
 You might want to store your TeXercise-exercises and more in the [TeXerBase](https://github.com/polarwinkel/TeXerBase) exercise database!
 
+## [PolarSVGedit](https://github.com/polarwinkel/PolarSVGedit)
+
+A lightweight online SVG-Editor designed to get the basics done quickly with the mouse, but unleashing the power of SVG in Code, live-rendering your edits.
+
+Give it a try with the [PolarSVGedit online Live-Editor](https://polarwinkel.github.io/PolarSVGedit/PolarSVGedit.html)!
+
 ## [plotLine.js](https://github.com/polarwinkel/plotLine.js)
 
 A JavaScript-Library / editor to quickly create good-looking diagrams from your data or graphs for mathematical functions.
+
+Whatch the [simple example](https://polarwinkel.github.io/plotLine.js/examples/simple.html) or the [showcase](https://polarwinkel.github.io/plotLine.js/examples/showcase.html) and give it a try in the [plorLine.js online Live Editor](https://polarwinkel.github.io/plotLine.js/liveEditor/liveEditor.html)!
